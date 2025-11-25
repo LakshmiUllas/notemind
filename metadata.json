@@ -1,0 +1,5 @@
+{
+  "name": "NoteMind AI",
+  "description": "A smart, subject-based note-taking application organized by chapters. Features AI-powered summarization and study assistance.",
+  "requestFramePermissions": []
+}
